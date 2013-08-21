@@ -1,0 +1,38 @@
+This program uses the Panda3d game engine to function, a freeware from www.panda3d.org.
+
+Once Panda3d is downloaded create the following text file to connect Panda3D to Python:
+
+C:/Panda3D-1.8.1 
+C:/Panda3D-1.8.1/direct/src/actor 
+C:/Panda3D-1.8.1/direct/src/cluster 
+C:/Panda3D-1.8.1/direct/src/controls 
+C:/Panda3D-1.8.1/direct/src/directbase 
+C:/Panda3D-1.8.1/direct/src/directdevices 
+C:/Panda3D-1.8.1/direct/src/directnotify 
+C:/Panda3D-1.8.1/direct/src/directscripts 
+C:/Panda3D-1.8.1/direct/src/directtools 
+C:/Panda3D-1.8.1/direct/src/directutil 
+C:/Panda3D-1.8.1/direct/src/distributed 
+C:/Panda3D-1.8.1/direct/src/extensions 
+C:/Panda3D-1.8.1/direct/src/extensions_native 
+C:/Panda3D-1.8.1/direct/src/ffi 
+C:/Panda3D-1.8.1/direct/src/fsm 
+C:/Panda3D-1.8.1/direct/src/gui 
+C:/Panda3D-1.8.1/direct/src/interval 
+C:/Panda3D-1.8.1/direct/src/leveleditor 
+C:/Panda3D-1.8.1/direct/src/motiontrail 
+C:/Panda3D-1.8.1/direct/src/particles 
+C:/Panda3D-1.8.1/direct/src/physics 
+C:/Panda3D-1.8.1/direct/src/pyinst 
+C:/Panda3D-1.8.1/direct/src/showbase 
+C:/Panda3D-1.8.1/direct/src/showutil 
+C:/Panda3D-1.8.1/direct/src/task 
+C:/Panda3D-1.8.1/direct/src/tkpanels 
+C:/Panda3D-1.8.1/direct/src/tkwidgets 
+C:/Panda3D-1.8.1/bin
+
+
+Note: Some of the above may need to be changed based on the version and location of the Panda3D you downloaded.
+Panda 3D is not compatable with Python 3.
+
+Save the as file as panda.PTH within the Python27 (or Python26, etc.) folder. 
